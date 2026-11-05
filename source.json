@@ -8,6 +8,13 @@
      {
       "name": "菜妮丝",
       "config": "https://tv.菜妮丝.top"
+    },
+       {
+      "name": "小马",
+      "config": "https://szyyds.cn/tv/x.json"
+    },  {
+      "name": "4K小盒子",
+      "config": "http://xhztv.top/4k.json"
     }
   ]
 }
