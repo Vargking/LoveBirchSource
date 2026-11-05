@@ -1,20 +1,25 @@
 {
-  "name": "lb_20261106-fix",
+  "name": "lb_20261106-fix2",
   "subscriptions": [
-     {
+    {
       "name": "老刘备",
       "config": "https://raw.liucn.cc/box/m.json"
     },
-     {
+    {
       "name": "菜妮丝",
       "config": "https://tv.菜妮丝.top"
     },
-       {
+    {
       "name": "小马",
       "config": "https://szyyds.cn/tv/x.json"
-    },  {
+    },
+    {
       "name": "4K小盒子",
       "config": "http://xhztv.top/4k.json"
+    },
+    {
+      "name": "饭太硬",
+      "config": "http://www.饭太硬.cc/tv"
     }
   ]
 }
