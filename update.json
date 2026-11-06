@@ -1,7 +1,7 @@
 {
   "latest": "1.0.3",
   "hash": "ac7d2a3a1029ff0669427a0057550029f49c18f90bf9344a9c5146d644e62fae",
-  "downloadUrl": "https://gitee.com/Vargking/lbs/raw/master/LoveBirch-1.0.3-release.apk",
+  "downloadUrl": "https://dl.kstore.dev/download/20471/LoveBirch-1.0.3-release.apk",
   "description": [
     "新增播放信息按钮，支持查看完整播放地址、媒体参数并复制",
     "新增全局崩溃报告页面，支持复制错误信息、重启及关闭应用",
