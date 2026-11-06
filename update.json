@@ -1,7 +1,15 @@
 {
-    "latest":"1.0.2",
-    "hash":"ae169a6a67737ca7f3749a4877cd68091efdd98d9b05d5bb07fc9af7bb76d1e5",
-    "downloadUrl":"https://gitee.com/Vargking/lbs/raw/master/LoveBirch-1.0.2-release-screen-awake.apk",
-    "description":[ "修复bug"],
-    "isForce":false
+  "latest": "1.0.3",
+  "hash": "ac7d2a3a1029ff0669427a0057550029f49c18f90bf9344a9c5146d644e62fae",
+  "downloadUrl": "https://gitee.com/Vargking/lbs/raw/master/LoveBirch-1.0.3-release.apk",
+  "description": [
+    "新增播放信息按钮，支持查看完整播放地址、媒体参数并复制",
+    "新增全局崩溃报告页面，支持复制错误信息、重启及关闭应用",
+    "优化全屏播放器布局与挖孔屏适配，锁定按钮移至右侧",
+    "播放器锁定后保留长按倍速，禁用音量、亮度及滑动快进手势",
+    "首页新增随主题色变化、轻盈摆动的持续飘落花瓣特效",
+    "新增百年会员专属标识与欢迎语",
+    "播放及缓冲期间保持屏幕常亮，暂停或退出后恢复"
+  ],
+  "isForce": true
 }
