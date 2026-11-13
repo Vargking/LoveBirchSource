@@ -1,0 +1,12 @@
+{
+  "version": "20261113",
+  "title": "LoveBirch 测试公告",
+  "message": "<h1>欢迎使用 LoveBirch 1.1.3</h1><p>这是一份<strong>远程公告示例</strong>，公告外观随应用主题变化。</p><ul><li>优化线上 VLC 缓冲与分片预读。</li><li>修复长按倍速手势冲突，补充可解析点播分片的缓冲进度。</li><li>改善下载器网页兼容和加载界面，MP4 优先无损重封装。</li></ul><blockquote>关闭后会记住本公告版本。修改 version 字段可发布新的未读公告。</blockquote><p><em>本版本未运行功能测试；示例文件尚未上传服务器。</em></p>",
+  "closable": true,
+  "buttons": [
+    { "text": "知道了", "action": "dismiss", "color": "theme" },
+    { "text": "转到设置", "action": "openpage:settings", "color": "blue" },
+    { "text": "视频下载器", "action": "openpage:downloader", "color": "green" },
+    { "text": "退出应用", "action": "exit", "color": "red" }
+  ]
+}
