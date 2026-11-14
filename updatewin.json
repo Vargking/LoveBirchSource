@@ -1,19 +1,19 @@
 {
   "latest": "1.2.4",
-  "hash": "4f3f7b443e37508807e4283439712076310adb2fd8f60f8f97c115d6d851d7a4",
+  "hash": "3005fa377f284e8de32923d42a00018407e1b5a78d942ace79e2bac7916bfaa6",
   "downloadUrl": "https://20471.kstore.space/LoveBirch-1.2.4-windows-x64-setup.exe",
   "artifacts": {
     "normal": {
       "downloadUrl": "https://20471.kstore.space/LoveBirch-1.2.4-windows-x64-setup.exe",
-      "hash": "4f3f7b443e37508807e4283439712076310adb2fd8f60f8f97c115d6d851d7a4",
+      "hash": "3005fa377f284e8de32923d42a00018407e1b5a78d942ace79e2bac7916bfaa6",
       "includesJre": true,
-      "size": 158617088
+      "size": 158620160
     },
     "nojre": {
       "downloadUrl": "https://20471.kstore.space/LoveBirch-1.2.4-windows-x64-nojre-setup.exe",
-      "hash": "44c1a86683ebe50daeee406df709e51af56fcb9fa37d81ba401af49a43e388e9",
+      "hash": "19b135b5d70a561fbea90458b494200c7f60b94ed891e8a6c7d7c49eb4c77176",
       "includesJre": false,
-      "size": 130885632
+      "size": 130888704
     }
   },
   "description": [
@@ -25,5 +25,5 @@
     "安装器保留当前用户 / 所有用户安装、自选位置、开始菜单及桌面图标，覆盖升级保留个人设置、会员、收藏与历史。",
     "保留播放源横向滚动、键盘播放控制、本地路径处理及荐片实时 API。正常版内置 Java 21；NoJRE 版需自行安装 64 位 Java 21+。"
   ],
-  "isForce": false
+  "isForce": true
 }

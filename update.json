@@ -1,6 +1,6 @@
 {
   "latest": "1.2.4",
-  "hash": "6aab741f29e7e3830a7476af5408c9842109f495be883b212e03bfd6b2caa86e",
+  "hash": "9574f1de25b2b2c5f2d9cfda65be3d9ecd510bb6769c1873e546b488c2a2b0c5",
   "downloadUrl": "https://20471.kstore.space/LoveBirch-1.2.4-release.apk",
   "description": [
     "全平台升级至 1.2.4；Android versionCode 20，使用原有发布证书签名，支持覆盖升级。",
@@ -9,5 +9,5 @@
     "继续使用 jpSources 域名池，通过六位随机字母子域名的 /api/v1/home 有效响应发现可用服务器。",
     "手机版与 TV 版独立包名、独立更新清单；仅支持 ARM64 Android 7.0+。"
   ],
-  "isForce": false
+  "isForce": true
 }
