@@ -4,7 +4,7 @@
   "message": "<h1 color=\"red\">我让你看了吗你就看？？？</h1>",
   "closable": true,
   "buttons": [
-    { "text": "嘻嘻就看", "action": "dismiss", "color": "theme" },\
+    { "text": "嘻嘻就看", "action": "dismiss", "color": "theme" },
     { "text": "不看了", "action": "exit", "color": "red" }
   ]
 }
