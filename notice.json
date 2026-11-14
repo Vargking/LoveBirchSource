@@ -1,8 +1,8 @@
 {
-  "version": "20261114-6",
+  "version": "20261114-7",
   "title": "你愁啥呢",
   "message": "<h1>我让你看了吗你就看？？？</h1></br><h1>不许看！</h1></br>（看什么好看的带我看看）</br>（嘿嘿）",
-  "closable": true,
+  "closable": false,
   "buttons": [
     { "text": "嘻嘻就看", "action": "dismiss", "color": "theme" },
     { "text": "切，不看了", "action": "exit", "color": "red" }
