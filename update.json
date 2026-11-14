@@ -1,12 +1,13 @@
 {
-  "latest": "1.2.2",
-  "hash": "1a9b7be56cefcd829a5b01f86eedb5643495fc0c347c5be972060a0145acd34d",
-  "downloadUrl": "https://20471.kstore.space/LoveBirch-1.2.2-release.apk",
+  "latest": "1.2.4",
+  "hash": "6aab741f29e7e3830a7476af5408c9842109f495be883b212e03bfd6b2caa86e",
+  "downloadUrl": "https://20471.kstore.space/LoveBirch-1.2.4-release.apk",
   "description": [
-    "重新核对荐片源接口结构，修正首页分类分页的海报字段回退与图片域名处理。",
-    "海报统一加载逻辑，保留渐显动画，增加备用图片与有限重试。",
-    "荐片详情过滤无地址线路，优先普通直连线路，补充播放地址的请求头与媒体类型。",
-    "Android 原有页面、特效及网页嗅探功能保留。"
+    "全平台升级至 1.2.4；Android versionCode 20，使用原有发布证书签名，支持覆盖升级。",
+    "手机版保留原有界面、Media3 / VLC、视频下载器和本地播放功能；TV 专用布局与遥控操作不影响手机版。",
+    "保留荐片 /api/v1 新接口、海报字段、游标分页和 media/access 实时播放地址。",
+    "继续使用 jpSources 域名池，通过六位随机字母子域名的 /api/v1/home 有效响应发现可用服务器。",
+    "手机版与 TV 版独立包名、独立更新清单；仅支持 ARM64 Android 7.0+。"
   ],
-  "isForce": true
+  "isForce": false
 }
