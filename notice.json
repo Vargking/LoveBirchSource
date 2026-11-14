@@ -1,9 +1,10 @@
 {
-  "version": "20261114 ",
+  "version": "20261114-5",
   "title": "通知",
-  "message": "<a color=\"red\">Windows电脑版、电视盒子版已发布。</a>",
+  "message": "<h1 color=\"red\">我让你看了吗你就看？？？</h1>",
   "closable": true,
   "buttons": [
-    { "text": "知道了", "action": "dismiss", "color": "theme" }
+    { "text": "嘻嘻就看", "action": "dismiss", "color": "theme" },\
+    { "text": "不看了", "action": "exit", "color": "red" }
   ]
 }
