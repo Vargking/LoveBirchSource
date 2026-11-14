@@ -1,7 +1,7 @@
 {
   "version": "20261113-2",
-  "title": "LoveBirch 更新公告",
-  "message": "<h1 color=\"red\">如果片库全部无法播放，就打开我的->数据源管理->使用荐片源<h1>",
+  "title": "通知",
+  "message": "<a color=\"red\">Windows电脑版、电视盒子版已发布。</a>",
   "closable": true,
   "buttons": [
     { "text": "知道了", "action": "dismiss", "color": "theme" }
